@@ -1,7 +1,8 @@
-Full Name:Sania Haider
-USN:1GC24CS098
+Title: Ms
+Full Name: Sania Haider
+USN: 1GC24CS098
 Semester: Third
-Section:B
+Section: B
 Branch: Computer Science Engineering
-Year of Admission:2025
-College Name:GCE
+Year of Admission: 2024
+College Name: GCE
