@@ -1,7 +1,8 @@
-Full Name:Sania Haider
-USN:1GC24CS098
-Semester:Third
-Section:B
+Title: Ms
+Full Name: Sania Haider
+USN: 1GC24CS098
+Semester: Third
+Section: B
 Subject Name: Project Management with GIT
 Subject Code: BCS358C
 Academic Year: 2025-2026
