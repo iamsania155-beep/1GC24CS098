@@ -1,1 +1,11 @@
-About myself
+Title: Ms
+Full Name: Sania Haider
+USN: 1GC24CS098
+Semester: Third
+Section: B
+Branch: Computer Science Engineering
+Year of Admission: 2024
+College Name: GCE
+SSLC: St.Joseph's Convent High School
+PUC: St.Joseph's Convent High School
+UG Degree:Computer Science Engineering
